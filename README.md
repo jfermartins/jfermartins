@@ -6,7 +6,7 @@ Bem-vindo ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia, com e
 
 ## 🚀 Sobre Mim
 
-- 📚 Pós-Graduação em Engenharia de Software e Gestão de Projetos (em andamento, INEX)
+- 📚 Pós-Graduação em Engenharia de Software e Gestão de Projetos (INEX, 2024-2025)
 - 🎓 Graduação em Análise e Desenvolvimento de Sistemas (Fatec PG, 2018-2021)
 - 💻 Experiência em desenvolvimento backend (Java, Spring Boot) e frontend (JavaScript, CSS, HTML) 
 - 🔧 Testes manuais e suporte em operações de mercados da América Latina
