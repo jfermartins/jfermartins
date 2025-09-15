@@ -10,7 +10,7 @@ Bem-vindo ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia, com e
 - 🎓 Graduação em Análise e Desenvolvimento de Sistemas (Fatec PG, 2018-2021)
 - 💻 Experiência em desenvolvimento backend (Java, Spring Boot) e frontend (JavaScript, CSS, HTML) 
 - 🔧 Testes manuais e suporte em operações de mercados da América Latina
-- 🌐 Certificações recentes em **Cloud Computing**, **IA Generativa** e **Arquitetura de Encoder-Decoder**
+- 🌐 Certificações recentes em **Cloud Computing**, **IA Generativa** e **Arquitetura de Encoder-Decoder** , **AZ-900 - Fundamentos do Azure**
 
 ## 🛠️ Competências Técnicas
 
@@ -39,7 +39,7 @@ Bem-vindo ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia, com e
 
 ## 🔍 Palavras-Chave
 
-`Engenharia de Dados`, `Desenvolvimento Backend`, `Desenvolvimento Frontend`, `Java`, `Spring Boot`, `PHP`, `JavaScript`, `HTML5`, `CSS3`, `Bootstrap`, `ReactJS`, `MySQL`, `PostgreSQL`, `SAS`, `Google Cloud Platform`, `AEM`, `SAP Commerce Hybris`, `Git`, `APIs REST`, `POO`, `Certificações Google`, `IA Generativa`, `Cloud Computing`, `Business Intelligence`
+`Engenharia de Dados`, `Desenvolvimento Backend`, `Desenvolvimento Frontend`, `Java`, `Spring Boot`, `PHP`, `JavaScript`, `HTML5`, `CSS3`, `Bootstrap`, `ReactJS`, `MySQL`, `PostgreSQL`, `SAS`, `Google Cloud Platform`, `AEM`, `SAP Commerce Hybris`, `Git`, `APIs REST`, `POO`, `Certificações Google`, `IA Generativa`, `Cloud Computing`, `Business Intelligence`, `Azure Fundamentos`, `Certificação Azure`
 
 ## 📫 Contato
 
