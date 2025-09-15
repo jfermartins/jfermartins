@@ -14,15 +14,16 @@ Bem-vindo ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia, com e
 
 ## 🛠️ Competências Técnicas
 
-- **Backend**: Java, Spring Boot, PHP, Laravel
+- **Backend**: Java, Spring Boot, PHP, Laravel, C#, VB.Net
 - **Frontend**: JavaScript, HTML5, CSS3, Bootstrap, ReactJS
 - **Banco de Dados**: MySQL, PostgreSQL, SQL Server, SAS
-- **Plataformas e Ferramentas**: SAP Commerce Hybris, AEM, Google Cloud Platform
+- **Plataformas e Ferramentas**: SAP Commerce Hybris, AEM, Google Cloud Platform, Azure 
 - **Metodologias**: Desenvolvimento Ágil, Gestão de Projetos
 - **Outros**: Git, Segurança em APIs REST, Orientação a Objetos (POO)
 
 ## 📈 Certificações Recentes
 
+- AZ-900 Microsoft Certified - Fundamentos do Azure (Fev. 2025)
 - Google Cloud Computing Foundations (Set. 2024)
 - Introdução à IA Generativa e Modelos de Linguagem (Set. 2024)
 - Arquitetura de Encoder-Decoder e BERT Models (Out. 2024)
