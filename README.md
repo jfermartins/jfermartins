@@ -14,7 +14,7 @@ Bem-vindo ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia, com e
 
 ## 🛠️ Competências Técnicas
 
-- **Backend**: Java, Spring Boot, PHP, Laravel, C#, VB.Net
+- **Backend**: Java, Spring Boot, PHP, C#, VB.Net
 - **Frontend**: JavaScript, HTML5, CSS3, Bootstrap, ReactJS
 - **Banco de Dados**: MySQL, PostgreSQL, SQL Server, SAS
 - **Plataformas e Ferramentas**: SAP Commerce Hybris, AEM, Google Cloud Platform, Azure 
