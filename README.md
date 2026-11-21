@@ -22,7 +22,7 @@ Busco oportunidades nas áreas de **Dados**, **Desenvolvimento Fullstack** e **F
 - Desenvolvimento **backend** com *Java (Spring Boot)*  
 - Desenvolvimento **frontend** com *JavaScript, React, HTML e CSS*  
 - Testes manuais, suporte e operações em mercados da América Latina  
-- Foco em aprendizado contínuo e certificações em *Cloud* e *IA Generativa*
+- Foco em aprendizado contínuo e certificações em *Cloud* e *IA Generativa* e *Azure AZ-900*
 
 ---
 
